@@ -1,0 +1,65 @@
+{
+    "title": "Private Test",
+    "creators": [
+        {
+            "name": "Joey Zhou"
+        },
+        {
+            "name": "Joey Zhou"
+        }
+    ],
+    "description": "",
+    "version": "2020-04-01T23:41:09.313624",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "conp"
+        }
+    ],
+    "distributions": [
+        {
+            "size": 245.0,
+            "unit": {
+                "value": "Bytes"
+            },
+            "access": {
+                "landingPage": "https://osf.io/37emg/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "4"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
